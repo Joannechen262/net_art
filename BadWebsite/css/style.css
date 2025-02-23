@@ -31,3 +31,171 @@ div {
     max-height: 20%;
     background-color: #3c220a;
 }
+
+#card1 {
+    position: absolute;
+    top: 323px;
+    left: 750px;
+    z-index: 1;
+}
+
+#card2 {
+    position: absolute;
+    top: 979px;
+    left: 32px;
+    z-index: 2;
+}
+
+#card3 {
+    position: absolute;
+    top: 925px;
+    left: 127px;
+    z-index: 3;
+}
+
+#card4 {
+    position: absolute;
+    top: 2015px;
+    left: 95px;
+    z-index: 4;
+}
+
+#card5 {
+    position: absolute;
+    top: 283px;
+    left: 882px;
+    z-index: 5;
+}
+
+#card6 {
+    position: absolute;
+    top: 57px;
+    left: 286px;
+    z-index: 6;
+}
+
+#card7 {
+    position: absolute;
+    top: 297px;
+    left: 481px;
+    z-index: 7;
+}
+
+#card8 {
+    position: absolute;
+    top: 1887px;
+    left: 1284px;
+    z-index: 8;
+}
+
+#card9 {
+    position: absolute;
+    top: 384px;
+    left: 247px;
+    z-index: 9;
+}
+
+#card10 {
+    position: absolute;
+    top: 287px;
+    left: 152px;
+    z-index: 10;
+}
+
+#card11 {
+    position: absolute;
+    top: 1392px;
+    left: 718px;
+    z-index: 11;
+}
+
+#card12 {
+    position: absolute;
+    top: 1085px;
+    left: 604px;
+    z-index: 12;
+}
+
+#card13 {
+    position: absolute;
+    top: 976px;
+    left: 804px;
+    z-index: 13;
+}
+
+#card14 {
+    position: absolute;
+    top: 598px;
+    left: 576px;
+    z-index: 14;
+}
+
+#card15 {
+    position: absolute;
+    top: 963px;
+    left: 1267px;
+    z-index: 15;
+}
+
+#card16 {
+    position: absolute;
+    top: 1484px;
+    left: 968px;
+    z-index: 16;
+}
+
+#card17 {
+    position: absolute;
+    top: 547px;
+    left: 904px;
+    z-index: 17;
+}
+
+#card18 {
+    position: absolute;
+    top: 947px;
+    left: 308px;
+    z-index: 18;
+}
+
+#card19 {
+    position: absolute;
+    top: 1979px;
+    left: 935px;
+    z-index: 19;
+}
+
+#card20 {
+    position: absolute;
+    top: 2019px;
+    left: 498px;
+    z-index: 20;
+}
+
+#card21 {
+    position: absolute;
+    top: 1983px;
+    left: 359px;
+    z-index: 21;
+}
+
+#card22 {
+    position: absolute;
+    top: 460px;
+    left: 547px;
+    z-index: 22;
+}
+
+#card23 {
+    position: absolute;
+    top: 358px;
+    left: 460px;
+    z-index: 23;
+}
+
+#card24 {
+    position: absolute;
+    top: 789px;
+    left: 982px;
+    z-index: 24;
+}

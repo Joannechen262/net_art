@@ -1,0 +1,74 @@
+* { 
+    margin: 0;  
+  }
+
+.container {
+    height: 100vh;
+    width: 100%;
+    background-color: #000000;
+}
+
+.cat {
+    float: left;
+    width: 33.33%;
+    height: 33.33vh;
+}
+
+.life1 {
+    background-image: url('https://images.litter-robot.com/media/wysiwyg/siberian-cat-water.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.life2 {
+    background-image: url('https://cdn.shopify.com/s/files/1/0344/6469/files/Cat_stuck_in_tree.jpg?v=1589230322');
+    background-size: cover;
+    background-position: center;
+}
+
+.life3 {
+    background-image: url('https://img.freepik.com/premium-photo/cat-jumping-down-from-kitchen-table_357532-3630.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.life4 {
+    background-image: url('https://i.redd.it/8x6own56dasa1.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.life5 {
+    background-image: url('https://thecatisinthebox.com/cdn/shop/articles/8bbfaf4bc3c15cfba8a4eaedcdb40e8e.jpg?v=1654712948');
+    background-size: cover;
+    background-position: center;
+}
+
+.life6 {
+    background-image: url('https://thumbs.dreamstime.com/b/cute-cat-sleeping-porch-village-49672249.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.life7 {
+    background-image: url('https://img.huffingtonpost.com/asset/5b2d52112000006505b95325.jpeg?cache=LfbSX1eX37&ops=1200_630');
+    background-size: cover;
+    background-position: center;
+}
+
+.life8 {
+    background-image: url('https://media.greenmatters.com/brand-img/1gnHGcwy_/0x0/do-cats-actually-get-high-from-catnip-1594397399204.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.life9 {
+    background-image: url('https://www.acatclinic.us/wp-content/uploads/2018/11/Two-kittens-playing-gently-cat-3737295_1920.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+h2 {
+    color: white;
+    background-color: #000000;
+}

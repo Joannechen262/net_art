@@ -18,13 +18,13 @@
   
 #button {
    width: 20%;
-   background-color: rgb(71, 175, 255);
+   background-color: #47afff;
    padding: 10px 20px;
    transition: background-color 5s ease;
 }
 
 #button:hover {
-    background-color: rgb(196, 79, 163);
+    background-color: #c44fa3;
     font-size:20px;
     padding: 20px 40px;
  }

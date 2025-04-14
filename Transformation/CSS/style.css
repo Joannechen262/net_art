@@ -1,0 +1,30 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#sun {
+    width: 50%;
+}
+
+#sunset {
+    width: 50%;
+}
+
+#moon {
+    width: 50%;
+}
+  
+#button {
+   width: 20%;
+   background-color: rgb(71, 175, 255);
+   padding: 10px 20px;
+   transition: background-color 5s ease;
+}
+
+#button:hover {
+    background-color: rgb(196, 79, 163);
+    font-size:20px;
+    padding: 20px 40px;
+ }

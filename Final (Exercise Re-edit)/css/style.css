@@ -1,0 +1,153 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+}
+
+body, html, p, ol, li {
+    background-color: #1f1f1f !important; /* Dark background */
+    color: #fff !important; /* White text for contrast */
+    line-height: 1.6;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 3em;
+    text-decoration: underline;
+    margin-bottom: 15px;
+}
+
+h2 {
+    font-size: 2.5em;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+h3 {
+    font-size: 2em;
+    color: #ff6347; /* Slightly lighter orange for emphasis */
+    margin: 8px 0;
+}
+
+h4, h5 {
+    font-size: 1.8em;
+    margin-top: 10px;
+}
+
+/* Emphasis & Italics */
+i {
+    font-style: italic;
+    color: #adff2f; /* Light green to highlight key moments */
+}
+
+/* Paragraph Styling */
+p {
+    margin-bottom: 20px;
+}
+
+/* Links */
+a {
+    color: #00bfff; /* Sky blue to contrast with dark background */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* List Styling */
+ol {
+    padding-left: 20px;
+    margin-top: 15px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+/* Page-Specific Styles for Different Pages */
+
+/* Page 1: Build up tension */
+body {
+    background-color: #1a1a1a;
+}
+
+h1 {
+    color: #ff4500; /* Intense red-orange for panic */
+}
+
+h2 {
+    color: #f0e68c; /* Soft yellow for minor, surreal elements */
+}
+
+/* Page 2: Mourning moment */
+body {
+    background-color: #3e3e3e; /* Darker gray for sorrow */
+}
+
+h3 {
+    color: #a52a2a; /* Deep brown for sorrowful tones */
+}
+
+/* Page 3: Slight relief after saving friend */
+body {
+    background-color: #2f4f4f; /* Slightly lighter dark gray-green */
+}
+
+h3 {
+    color: #ffd700; /* Golden yellow for a slight uplifting moment */
+}
+
+/* Page 4: Jump to safety */
+body {
+    background-color: #2f4f4f;
+}
+
+h3 {
+    color: #adff2f; /* Light green for hope and survival */
+}
+
+/* Page 5: Moving on from the loss */
+body {
+    background-color: #333333; /* Toned-down dark gray */
+}
+
+h3 {
+    color: #ff8c00; /* Orange to symbolize moving forward */
+}
+
+/* Page 6: Quiet mourning, then continuing */
+body {
+    background-color: #444444; /* Dark but neutral background */
+}
+
+h3 {
+    color: #d2691e; /* Chocolate color for quiet grief */
+}
+
+/* Page 7: Final dream sequence */
+body {
+    background-color: #f0f8ff; /* Light sky blue for dreamlike effect */
+}
+
+h1 {
+    color: #ff1493; /* Bright, surreal pink for dreamlike quality */
+}
+
+h2, h3 {
+    color: #ff69b4; /* Soft pinks for a calming yet surreal vibe */
+}
+
+i {
+    color: #ff6347; /* Warm tone for the realization of the dream */
+}
+
+/* Footer or Restart Link Styling */
+a {
+    font-size: 1.2em;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-top: 20px;
+}
